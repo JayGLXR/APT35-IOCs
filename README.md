@@ -4,7 +4,6 @@
 
 **Threat Actor:** APT35 / Charming Kitten / Phosphorus / Newscaster  
 **Attribution:** Islamic Republic of Iran  
-**Classification:** CONFIDENTIAL // FOR OFFICIAL USE ONLY  
 **Last Updated:** October 2025
 
 ---
